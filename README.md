@@ -70,6 +70,7 @@ Tools where an AI model decides the test steps.
 - [Firebase App Testing agent](https://firebase.google.com/docs/app-distribution/android/app-testing-agent) - Natural-language test cases for Android builds (preview).
 - [testRigor](https://testrigor.com/) - Tests written in plain English for Android, iOS and web.
 - [Momentic](https://momentic.ai/) - AI QA agent that tests from a prompt.
+- [agent-qa](https://vostride.com) - FSL-1.1-ALv2-licensed natural-language QA for Android, iOS and web, with persistent memidex memory and validated self-improvement.
 - [QA Wolf](https://www.qawolf.com/) - AI-assisted end-to-end test creation and maintenance as a service.
 - [AskUI](https://www.askui.com/) - Vision-based agent that runs plain-language test cases on any screen.
 - [Repeato](https://www.repeato.app/) - No-code, computer-vision test recorder for mobile.
